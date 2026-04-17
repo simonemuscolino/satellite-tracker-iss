@@ -26,7 +26,7 @@ This approach allows a clear understanding of when and where a satellite becomes
 
 This plot shows the apparent motion of the ISS in the sky over a short time window.
 
-![Sky Track](images/sky_track_.png)
+![Sky Track](sky_track_.png)
 
 ---
 
@@ -34,7 +34,7 @@ This plot shows the apparent motion of the ISS in the sky over a short time wind
 
 This representation highlights a full visible pass of the ISS, including time annotations along the trajectory.
 
-![Polar Plot](images/polar_plot_.png)
+![Polar Plot](polar_plot_.png)
 
 ---
 
